@@ -10,9 +10,11 @@ Postman
 
 Postman instalado
 
-#Para executar a suíte de testes:
+# Para executar a suíte de testes:
 
 Importar para o postman os arquivos:
  
- *Buscar FIlme Noesis.postman_environment.json
- *Projeto_API_Postman.zip
+ * Buscar FIlme Noesis.postman_environment.json
+ * Projeto_API_Postman.zip
+
+
